@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm RAGHAV KUMAR SINGH</h1>
 <h3 align="center">🖥️ Tech-Savvy Fresh Grad | Core JAVA and RDBMS Specialist | Eager to Drive Digital Transformation!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=19csd26" alt="19csd26" /></a> </p>
-
 - 🌱 I’m currently learning **Spring**
 
 - 👨‍💻 All of my projects are available at [https://19csd26.github.io/Raghav/](https://19csd26.github.io/Raghav/)
