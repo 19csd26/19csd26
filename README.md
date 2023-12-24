@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RAGHAV KUMAR SINGH</h1>
-<h3 align="center">🖥️ Tech-Savvy Fresh Grad | Core JAVA and RDBMS Specialist | Eager to Drive Digital Transformation!</h3>
+<h3 align="center">🖥️ Tech-Savvy Fresh Grad |PHP, Core JAVA and RDBMS Specialist | Eager to Drive Digital Transformation!</h3>
 
 - 🌱 I’m currently learning **Spring**
 
