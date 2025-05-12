@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=19csd26" alt="19csd26" /></a> </p>
 
-- 🌱 I’m currently learning **ROR**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://raghav-phi.vercel.app](https://raghav-phi.vercel.app)
 
